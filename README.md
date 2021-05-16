@@ -12,10 +12,10 @@
 
 Just change `src/portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/faisaltufail/developerFolio/issues).
 
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/saadpasta/developerFolio/pulls).
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/faisaltufail/developerFolio/pulls).
 
 ## Table of Contents
 - [Sections](#sections)
@@ -72,10 +72,10 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/saadpasta/developerFolio.git
+$ git clone https://github.com/faisal/portfolio.git
 
 # Go into the repository
-$ cd developerFolio
+$ cd portolio
 
 # Install dependencies
 $ npm install
@@ -93,7 +93,7 @@ Generate a Github personal access token following these [instructions](https://h
 Note: Instead of creating a .env file, you can just run this command "cp env.example .env" inside the root directory
 
 ```bash
-- DeveloperFolio
+- portfolio
   - node_modules
   - public
   - src
@@ -121,7 +121,7 @@ If you are seeing something as shown below, follow these [instructions](https://
 
 ![ERROR](https://i.imgur.com/Hj6mu1K.png)
 
-If the above solution still doesn't work, visit the [wiki page](https://github.com/saadpasta/developerFolio/wiki/Github-Setup-For-Open-Source-Projects).
+If the above solution still doesn't work, visit the [wiki page](https://github.com/faisaltufail/portofilo/wiki/Github-Setup-For-Open-Source-Projects).
 
 ## Change and customize every section according to your need.
 
@@ -139,11 +139,11 @@ const greeting = {
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/faisaltufail",
+  linkedin: "https://www.linkedin.com/in/faisaltufail/",
+  gmail: "fasiirajpoot6007@gmail.com",
+  gitlab: "https://gitlab.com/faisaltufail",
+  facebook: "https://www.facebook.com/faisaltufail007"
 };
 
 
@@ -241,7 +241,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 <table>
   <tr>
-    <td align="center"><a href="http://saadpasta.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a></td>
+    <td align="center"><a href="http://faisaltufail.github.io"><img src="https://avatars2.githubusercontent.com/u/23307811?v=4" width="100px;" alt=""/><br /><sub><b>Saad Pasta</b></sub></a></td>
     <td align="center"><a href="https://github.com/kartikcho"><img src="https://avatars1.githubusercontent.com/u/48270786?v=4" width="100px;" alt=""/><br /><sub><b>Kartik Choudhary</b></sub></a></td>
     <td align="center"><a href="https://naveen.syrusdark.website"><img src="https://avatars1.githubusercontent.com/u/49693820?v=4" width="100px;" alt=""/><br /><sub><b>Naveen M K</b></sub></a></td>
     <td align="center"><a href="http://www.muhammadhasham.com"><img src="https://avatars0.githubusercontent.com/u/17927649?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Hasham</b></sub></a></td>
@@ -318,6 +318,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 ---
 # portfolio
-# portfolio
-# portfolio
-# portfolio
+# faisaltufail

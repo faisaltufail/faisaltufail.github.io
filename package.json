@@ -1,6 +1,6 @@
 {
   "homepage": "faisaltufail.github.io/portfolio",
-  "name": "portfolio",
+  "home": "https://faisaltufail.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
