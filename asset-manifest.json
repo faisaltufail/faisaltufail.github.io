@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/faisaltufail/static/css/main.e255af88.chunk.css",
+    "main.js": "/faisaltufail/static/js/main.8ebf3de6.chunk.js",
+    "main.js.map": "/faisaltufail/static/js/main.8ebf3de6.chunk.js.map",
+    "runtime-main.js": "/faisaltufail/static/js/runtime-main.49494555.js",
+    "runtime-main.js.map": "/faisaltufail/static/js/runtime-main.49494555.js.map",
+    "static/js/2.812be988.chunk.js": "/faisaltufail/static/js/2.812be988.chunk.js",
+    "static/js/2.812be988.chunk.js.map": "/faisaltufail/static/js/2.812be988.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/faisaltufail/static/css/3.00373544.chunk.css",
+    "static/js/3.dd7efb97.chunk.js": "/faisaltufail/static/js/3.dd7efb97.chunk.js",
+    "static/js/3.dd7efb97.chunk.js.map": "/faisaltufail/static/js/3.dd7efb97.chunk.js.map",
+    "static/css/4.3e7d09e6.chunk.css": "/faisaltufail/static/css/4.3e7d09e6.chunk.css",
+    "static/js/4.5cc84415.chunk.js": "/faisaltufail/static/js/4.5cc84415.chunk.js",
+    "static/js/4.5cc84415.chunk.js.map": "/faisaltufail/static/js/4.5cc84415.chunk.js.map",
+    "index.html": "/faisaltufail/index.html",
+    "precache-manifest.489f59c30eba7544a6343799de15fb9f.js": "/faisaltufail/precache-manifest.489f59c30eba7544a6343799de15fb9f.js",
+    "service-worker.js": "/faisaltufail/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/faisaltufail/static/css/3.00373544.chunk.css.map",
+    "static/css/4.3e7d09e6.chunk.css.map": "/faisaltufail/static/css/4.3e7d09e6.chunk.css.map",
+    "static/css/main.e255af88.chunk.css.map": "/faisaltufail/static/css/main.e255af88.chunk.css.map",
+    "static/js/2.812be988.chunk.js.LICENSE.txt": "/faisaltufail/static/js/2.812be988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/faisaltufail/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/code.webp": "/faisaltufail/static/media/code.3c176170.webp",
+    "static/media/contactMailDark.svg": "/faisaltufail/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/faisaltufail/static/media/developerActivity.59389695.svg",
+    "static/media/digiskill.png": "/faisaltufail/static/media/digiskill.ca0924fc.png",
+    "static/media/manOnTable.svg": "/faisaltufail/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/faisaltufail/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/faisaltufail/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/faisaltufail/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/faisaltufail/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49494555.js",
+    "static/js/2.812be988.chunk.js",
+    "static/css/main.e255af88.chunk.css",
+    "static/js/main.8ebf3de6.chunk.js"
+  ]
+}
